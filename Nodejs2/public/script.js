@@ -1,0 +1,1 @@
+console.log("You are accessing public/script.js folder")
